@@ -35,3 +35,5 @@ build/
 
 ### prop ###
 de_local/src/resources/application.properties
+**/application.properties
+**/resources/application.properties
