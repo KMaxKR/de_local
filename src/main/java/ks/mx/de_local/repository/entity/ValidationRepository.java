@@ -1,4 +1,4 @@
-package ks.mx.de_local.repository;
+package ks.mx.de_local.repository.entity;
 
 import ks.mx.de_local.entity.Validation.Validation;
 import org.springframework.data.jpa.repository.JpaRepository;
